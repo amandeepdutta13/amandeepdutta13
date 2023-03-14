@@ -3,7 +3,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Welcome to my GitHub profile!
 ### I'm Amandeep Dutta, a Data Analyst in PWC passionate about data analytics.
 
-An aspiring data professional experienced in working with large datasets and DevOps tools utilising various modern technologies and tools, I am passionate about conveying meaningful insights and influencing important business decisions, in a data-driven way. I have previously worked as a Data Analyst and DevOps Engineer at PWC India, where I gained valuable work experience in the field of Data Analytics, Data Visualization and DevOps setup. I always aim to learn new skills, hone my existing skills, and improve continuously.
+An aspiring data professional, experienced in working with large datasets and DevOps tools utilising various modern technologies and tools, I am passionate about conveying meaningful insights and influencing important business decisions, in a data-driven way. I have previously worked as a Data Analyst and DevOps Engineer at PWC India, where I gained valuable work experience in the field of Data Analytics, Data Visualization and DevOps setup. I always aim to learn new skills, hone my existing skills, and improve continuously.
 
 ### ⚡ Tools & Technologies
 
